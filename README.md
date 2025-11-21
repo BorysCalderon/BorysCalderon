@@ -44,5 +44,5 @@ Confira meu projeto de análise exploratória (EDA), que demonstra minhas habili
 
 | | |
 | :--- | :--- |
-| 🔗 **LinkedIn** | `[INSIRA SEU LINK DO LINKEDIN AQUI]` |
+| 🔗 **LinkedIn** | `www.linkedin.com/in/boryscalderon` |
 | 📧 **E-mail** | `BORYSK15@GMAIL.COM` |
