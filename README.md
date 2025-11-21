@@ -1,16 +1,20 @@
-# Olá! Eu sou o Borys Calderon 👋
+# Olá! Eu sou o Borys Ever Tito Calderon 👋
 
-### Estudante de Sistemas de Informação (BSI) | Aspirante a Analista de Dados
+### 🇧🇷 Estudante de Sistemas de Informação (BSI) | Foco em Dados, Suporte e Desenvolvimento Front-End
 
-[cite_start]Sou um estudante proativo de Sistemas de Informação (4º Semestre) [cite: 31, 33][cite_start], com experiência em ambientes de alta pressão e qualidade (Suporte L2)[cite: 23, 26]. Meu foco atual é na transição para a área de Análise de Dados e Business Intelligence, utilizando proficiência em **Python** e **SQL** para transformar dados em decisões estratégicas.
+Sou um estudante proativo de Sistemas de Informação (5º Semestre), com uma base técnica robusta que abrange a análise de dados, infraestrutura de sistemas e desenvolvimento web. Possuo 3 anos de experiência sólida como **Analista de Suporte N2 Bilíngue**, que me proporcionou excelência em resolução de problemas e garantia de qualidade de processos.
+
+Minha paixão está em conectar a lógica de programação (Front-End) com a inteligência de negócio (Análise de Dados). Utilizo proficiência em **Python** e **SQL** para gerar insights e tenho conhecimentos em **HTML/CSS** para a criação de interfaces.
 
 ---
 
-## 🚀 Foco e Objetivos
+## 🎯 Foco e Objetivos (Áreas de Interesse)
 
-* **Buscando:** Estágio em Análise de Dados ou Business Intelligence (BI).
-* [cite_start]**Diferencial:** Fluente em **Espanhol** e experiência em comunicação corporativa na América Latina[cite: 12, 35].
-* **Próxima Meta:** Aprofundar conhecimentos em ferramentas de Visualização de Dados (Power BI/Tableau) e Cloud Computing.
+* **Busco Estágio em:**
+    1. **Análise de Dados / BI** (Área de Foco principal, onde possuo portfólio).
+    2. **Suporte Técnico / Infraestrutura** (Onde possuo experiência profissional consolidada).
+    3. **Desenvolvimento Front-End** (Onde aplico conhecimentos de BSI em HTML/CSS).
+* **Diferencial:** Fluência em **Espanhol** e experiência em comunicação corporativa na América Latina, pronto para atuar em projetos de escopo global.
 
 ---
 
@@ -18,28 +22,21 @@
 
 | Categoria | Ferramentas Chave |
 | :--- | :--- |
-| **Análise de Dados** | Python (Pandas, NumPy, Seaborn) | [cite_start]SQL (MySQL) [cite: 9] |
-| **Desenvolvimento** | [cite_start]Java [cite: 9] | [cite_start]HTML [cite: 9] |
+| **Análise de Dados** | Python (Pandas, NumPy, Seaborn) | SQL (MySQL) |
+| **Desenvolvimento Web** | HTML | CSS | Java |
+| **Infraestrutura/TI** | Sistemas Operacionais | Redes | Suporte N2/SME |
 | **Controle de Versão** | Git | GitHub |
-| **Ferramentas/BI** | Jupyter Notebooks | Excel (Avançado) |
 
 ---
 
 ## 📈 Meu Projeto de Destaque
 
-Confira meu projeto de análise exploratória (EDA), que demonstra todo o ciclo de vida da análise de dados:
+Confira meu projeto de análise exploratória (EDA), que demonstra minhas habilidades analíticas:
 
 ### [Análise de Tendências de Conteúdo em Streaming (Netflix)](https://github.com/BorysCalderon/Analise_Dados_Filmes_Streaming)
 
 * **O que foi feito:** Limpeza de dados (tratamento de 8800+ títulos), pré-processamento, e visualização de dados com Matplotlib e Seaborn.
-* **Insights:** Identificação dos **Top Gêneros** (*International Movies* e *Dramas*) e cálculo da **Duração Média** de Filmes (100 minutos), fornecendo tendências de catálogo.
-
----
-
-## 💼 Experiência & Educação
-
-* [cite_start]**Analista de Suporte Técnico L2 (Concentrix):** Experiência em administração de casos e garantia da qualidade (SME)[cite: 26]. [cite_start]Utilização de dados operacionais para melhoria contínua de processos e atendimento técnico bilíngue a clientes e empresas Dell[cite: 25].
-* [cite_start]**Bacharelado em Sistemas de Informação:** Centro Universitário Senac (Cursando - 4º Semestre)[cite: 31, 33].
+* **Insights:** Identificação dos **Top Gêneros** e cálculo da **Duração Média** de Filmes, fornecendo tendências de catálogo.
 
 ---
 
@@ -48,4 +45,4 @@ Confira meu projeto de análise exploratória (EDA), que demonstra todo o ciclo 
 | | |
 | :--- | :--- |
 | 🔗 **LinkedIn** | `[INSIRA SEU LINK DO LINKEDIN AQUI]` |
-| 📧 **E-mail** | [cite_start]`BORYSK1010@GMAIL.COM` [cite: 5] |
+| 📧 **E-mail** | `BORYSK15@GMAIL.COM` |
