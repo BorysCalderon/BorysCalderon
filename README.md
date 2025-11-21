@@ -1,6 +1,6 @@
 # Olá! Eu sou o Borys Calderon 👋
 
-### 🇧🇷 Estudante de Sistemas de Informação (BSI) | Aspirante a Analista de Dados
+### Estudante de Sistemas de Informação (BSI) | Aspirante a Analista de Dados
 
 [cite_start]Sou um estudante proativo de Sistemas de Informação (4º Semestre) [cite: 31, 33][cite_start], com experiência em ambientes de alta pressão e qualidade (Suporte L2)[cite: 23, 26]. Meu foco atual é na transição para a área de Análise de Dados e Business Intelligence, utilizando proficiência em **Python** e **SQL** para transformar dados em decisões estratégicas.
 
