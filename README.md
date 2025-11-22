@@ -38,6 +38,12 @@ Confira meu projeto de análise exploratória (EDA), que demonstra minhas habili
 * **O que foi feito:** Limpeza de dados (tratamento de 8800+ títulos), pré-processamento, e visualização de dados com Matplotlib e Seaborn.
 * **Insights:** Identificação dos **Top Gêneros** e cálculo da **Duração Média** de Filmes, fornecendo tendências de catálogo.
 
+### 🔧 Projeto Adicional (Suporte/Infra)
+
+#### [Script de Automação de Infraestrutura](https://github.com/BorysCalderon/Script_Automacao_Infra)
+* **O que foi feito:** Desenvolvimento de um script em Python para **monitoramento de múltiplos serviços web** (Google, Microsoft, GitHub).
+* **Skills Focadas:** Diagnóstico de rede, Automação de tarefas (Scripting Python) e gestão de falhas de serviços críticos.
+
 ---
 
 ### 🌐 Conecte-se Comigo
