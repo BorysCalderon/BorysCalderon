@@ -50,6 +50,11 @@ Confira meu projeto de análise exploratória (EDA), que demonstra minhas habili
 * **O que foi feito:** Modelagem completa de um sistema de E-commerce (DDL) e criação de scripts de consultas avançadas para análise.
 * **Skills Focadas:** Design Relacional, Chaves Primárias/Estrangeiras, `JOINs`, `GROUP BY` e Subqueries.
 
+### 🌐 Projeto de Front-End (Web Development)
+
+#### [Landing Page Responsiva (HTML/CSS)](https://github.com/BorysCalderon/Projeto_FrontEnd_LandingPage)
+* **O que foi feito:** Criação de uma interface web moderna para uma consultoria de tecnologia, focada em design responsivo (Mobile/Desktop).
+* **Skills Focadas:** HTML5 Semântico, CSS3 (Flexbox), UX/UI Design básico e Dark Mode.
 ---
 
 ### 🌐 Conecte-se Comigo
