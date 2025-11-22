@@ -44,6 +44,12 @@ Confira meu projeto de análise exploratória (EDA), que demonstra minhas habili
 * **O que foi feito:** Desenvolvimento de um script em Python para **monitoramento de múltiplos serviços web** (Google, Microsoft, GitHub).
 * **Skills Focadas:** Diagnóstico de rede, Automação de tarefas (Scripting Python) e gestão de falhas de serviços críticos.
 
+### 💾 Projeto de Banco de Dados (SQL)
+
+#### [Modelagem de Banco de Dados Relacional](https://github.com/BorysCalderon/Modelagem_BancoDeDados_SQL)
+* **O que foi feito:** Modelagem completa de um sistema de E-commerce (DDL) e criação de scripts de consultas avançadas para análise.
+* **Skills Focadas:** Design Relacional, Chaves Primárias/Estrangeiras, `JOINs`, `GROUP BY` e Subqueries.
+
 ---
 
 ### 🌐 Conecte-se Comigo
