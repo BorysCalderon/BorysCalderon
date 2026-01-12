@@ -2,7 +2,7 @@
 
 ### 🇧🇷 Estudante de Sistemas de Informação (BSI) | Foco em Dados, Suporte e Desenvolvimento Front-End
 
-Sou um estudante proativo de Sistemas de Informação (5º Semestre), com uma base técnica robusta que abrange a análise de dados, infraestrutura de sistemas e desenvolvimento web. Possuo 3 anos de experiência sólida como **Analista de Suporte N2 Bilíngue**, que me proporcionou excelência em resolução de problemas e garantia de qualidade de processos.
+Sou um estudante proativo de Sistemas de Informação (6º Semestre), com uma base técnica robusta que abrange a análise de dados, infraestrutura de sistemas e desenvolvimento web. Possuo 3 anos de experiência sólida como **Analista de Suporte N2 Bilíngue**, que me proporcionou excelência em resolução de problemas e garantia de qualidade de processos.
 
 Minha paixão está em conectar a lógica de programação (Front-End) com a inteligência de negócio (Análise de Dados). Utilizo proficiência em **Python** e **SQL** para gerar insights e tenho conhecimentos em **HTML/CSS** para a criação de interfaces.
 
